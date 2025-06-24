@@ -13,6 +13,7 @@ class MyDocument extends Document {
       <Html lang={BLOG.LANG}>
         <Head>
           {/* 预加载字体 */}
+          <meta name="google-site-verification" content="LFqT_l8Q1Km52i_s9ExvYUQP3Vvv8wPHuLxbKgRIIsQ" />
           {BLOG.FONT_AWESOME && (
             <>
               <link
